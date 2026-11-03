@@ -4,20 +4,22 @@ body{
     background-attachment: fixed;
 }
 .container{
-    border: 0px solid black;
+    /* border: 0px solid black; */
     
-    width: 900px;
-    height: 500px;
-    margin: 200px;
+    /* width: 900px; */
+    /* height: 500px; */
+    margin: 250px;
+text-align: center;
+border: none;
 }
 .head1{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif 'Courier New', Courier, monospace;
-    text-align: center ;
+    /* text-align: center ; */
     color: white;
 }
 .content{
-    text-align: center;
+    /* text-align: center; */
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
